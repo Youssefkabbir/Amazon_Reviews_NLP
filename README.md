@@ -12,7 +12,7 @@ Table of Contents
 
 # Introduction
 Dataset Overview
-This project uses an Amazon Product Reviews dataset, which contains customer reviews and ratings for a wide variety of products available on Amazon. The dataset is valuable for performing several Natural Language Processing (NLP) tasks, such as Sentiment Analysis, Topic Modeling, Named Entity Recognition (NER), and Text Summarization.
+This project uses an [Amazon Product Reviews dataset ](https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews/data), which contains customer reviews and ratings for a wide variety of products available on Amazon. The dataset is valuable for performing several Natural Language Processing (NLP) tasks, such as Sentiment Analysis, Topic Modeling, Named Entity Recognition (NER), and Text Summarization.
 
 Dataset Fields
 Each row in the dataset represents an individual review. Below are the key columns included:
