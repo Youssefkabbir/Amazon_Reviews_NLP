@@ -1,4 +1,9 @@
-# Amazon_Reviews_NLP
+#                                               <p align="center">          **Amazon_Reviews_NLP** </p>
+<p align="center">
+    <img width="300" src="https://www.jumpfly.com/wp-content/uploads/2019/12/20200108-Feedback-vs-Reviews-400-1.jpg" alt="Material Bread logo">
+    <img width="300" src="https://f5b623aa.rocketcdn.me/wp-content/uploads/elementor/thumbs/Blog-What-is-NLP-qmegp3gdnsk73a8yfi8z7ykrienrq8aern3obp2xfk.jpg" alt="Material Bread logo">
+</p>
+
 
 Table of Contents
 =================
